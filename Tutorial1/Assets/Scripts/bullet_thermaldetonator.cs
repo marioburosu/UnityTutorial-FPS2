@@ -3,7 +3,7 @@ using System.Collections;
 
 public class bullet_thermaldetonator : MonoBehaviour {
 	
-	float lifespan = 3.0f;
+public	float lifespan = 3.0f;
 	
 	// Use this for initialization
 	void Start () {

@@ -4,7 +4,7 @@ using System.Collections;
 public class FP_Shooting : MonoBehaviour {
 	
 	public GameObject bullet_prefab;
-	float bulletImpulse = 20f;
+	public float bulletImpulse = 50f;
 	// Use this for initialization
 	void Start () {
 	
