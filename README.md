@@ -1,6 +1,6 @@
 UnityTutorial-FPS2
 ==================
 
-unity Tutorial project
+This is an FPS very simple prototype I'm trying to build in unity to learn and for fun.
 
-doing this for fun to learn more about unity
+So far so good.
