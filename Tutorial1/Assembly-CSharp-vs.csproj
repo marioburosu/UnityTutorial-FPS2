@@ -44,7 +44,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\FP_Shooting.cs" />
      <Compile Include="Assets\Scripts\FirstPersonController.cs" />
+     <Compile Include="Assets\Scripts\bullet_thermaldetonator.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
